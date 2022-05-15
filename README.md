@@ -1,5 +1,7 @@
 # Gimbal
 Gimbal – Camera Stabilization System
+
+
 Project Goal
 The project's goal is to create a “gimbal”, a device balancing system used when taking photos or shooting a movie.
 Finally, all vibrations caused by hand quivers or rapid movements might cause the quality deterioration of photos/videos.
