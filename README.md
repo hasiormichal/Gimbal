@@ -12,11 +12,8 @@ Implementation
 The end device consists of:
 
 •	Case and frame
-
 •	Device movement sensory system
-
 •	Stabilizing system
-
 •	Power system
 
 The case and frame in which the electronic device will be placed will be made in 3D printing technology.
